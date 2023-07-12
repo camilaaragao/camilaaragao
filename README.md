@@ -9,8 +9,8 @@
   <img align="center" alt="camilaaragao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="camilaaragao-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-
 </div>
+
   
   ##
 ## Minhas redes sociais
@@ -20,3 +20,6 @@
   <a href="https://www.linkedin.com/in/camila-arag%C3%A3o-5a39341bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilaaragao&show_icons=true&theme=cobalt)
+
