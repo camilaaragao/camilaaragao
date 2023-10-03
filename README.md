@@ -1,5 +1,5 @@
 ## Oi! Eu sou a Camila Aragão!
-💻 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+💻 Iniciante como desenvolvedora Front-end e estudante de Análise e desenvolvimento de sistemas.
 
 
 ## Tecnologias que estou familiarizada 
