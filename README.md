@@ -2,6 +2,7 @@
 👨‍💻 Olá! Eu sou Camila Aragão, uma entusiasta de tecnologia atuando atualmente como suporte técnico, sempre pronta para resolver problemas e facilitar a vida dos usuários.
 
 🔧 Minhas ferramentas de escolha incluem:
+
 🗄️ Banco de Dados SQL: Gerenciando dados com eficiência.
 
 🌐 JavaScript & Desenvolvimento Web: Dando vida a projetos com HTML e CSS.
