@@ -1,5 +1,18 @@
 ## Oi! Eu sou a Camila Aragão!
-💻 Iniciante como desenvolvedora Front-end e estudante de Análise e desenvolvimento de sistemas.
+👨‍💻 Olá! Eu sou Camila Aragão, uma entusiasta de tecnologia atuando atualmente como suporte técnico, sempre pronta para resolver problemas e facilitar a vida dos usuários.
+
+🔧 Minhas ferramentas de escolha incluem:
+
+🗄️ Banco de Dados SQL: Gerenciando dados com eficiência.
+🌐 JavaScript & Desenvolvimento Web: Dando vida a projetos com HTML e CSS.
+🐍 Python: Automatizando tarefas e criando soluções inteligentes.
+📊 Power BI: Transformando dados em insights visuais.
+🔄 GIT: Versionando e colaborando de forma eficaz.
+🛠️ Metodologia ITIL: Garantindo melhores práticas em serviços de TI.
+📝 Microsoft Office: Dominando o Word, Excel e PowerPoint para relatórios e apresentações.
+✨ Sempre em busca de aprender mais e aprimorar minhas habilidades. Vamos nos conectar e explorar novas possibilidades!
+
+📫 camilaaragao2000@gmail.com
 
 
 ## Tecnologias que estou familiarizada 
@@ -9,6 +22,9 @@
   <img align="center" alt="camilaaragao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="camilaaragao-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="camilaaragao-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="camilaaragao-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/SQL/SQL-original.svg">
+  <img align="center" alt="camilaaragao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg">
+  <img align="center" alt="camilaaragao-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PowerBI/PowerBI-original.svg">
 </div>
 
   
