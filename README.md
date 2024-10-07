@@ -2,14 +2,20 @@
 👨‍💻 Olá! Eu sou Camila Aragão, uma entusiasta de tecnologia atuando atualmente como suporte técnico, sempre pronta para resolver problemas e facilitar a vida dos usuários.
 
 🔧 Minhas ferramentas de escolha incluem:
-
 🗄️ Banco de Dados SQL: Gerenciando dados com eficiência.
+
 🌐 JavaScript & Desenvolvimento Web: Dando vida a projetos com HTML e CSS.
+
 🐍 Python: Automatizando tarefas e criando soluções inteligentes.
+
 📊 Power BI: Transformando dados em insights visuais.
+
 🔄 GIT: Versionando e colaborando de forma eficaz.
+
 🛠️ Metodologia ITIL: Garantindo melhores práticas em serviços de TI.
+
 📝 Microsoft Office: Dominando o Word, Excel e PowerPoint para relatórios e apresentações.
+
 ✨ Sempre em busca de aprender mais e aprimorar minhas habilidades. Vamos nos conectar e explorar novas possibilidades!
 
 📫 camilaaragao2000@gmail.com
